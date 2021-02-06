@@ -11,7 +11,7 @@
 	</parent>
 
 	<groupId>com.javanibble.spring.jms</groupId>
-	<artifactId>spring-jms-messaging-example</artifactId>
+	<artifactId>spring-jms-messaging-example-01</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<name>Spring JMS: Messaging Example 01</name>
