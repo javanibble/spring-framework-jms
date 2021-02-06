@@ -14,8 +14,8 @@
 	<artifactId>spring-jms-messaging-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<name>spring-jms-messaging-example</name>
-	<description>Demo project for Spring Boot</description>
+	<name>Spring JMS: Messaging Example 01</name>
+	<description>Spring JMS: Messaging Example 01</description>
 
 	<properties>
 		<java.version>11</java.version>
